@@ -1,0 +1,47 @@
+# R files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Compiled files
+*.o
+*.so
+*.dll
+
+# Package build
+*.tar.gz
+*.Rcheck/
+
+# Development files
+QUICK_START.R
+SETUP.md
+check_datasets.R
+list_metafor.R
+setup_package.R
+test_package.R
+test_final_package.R
+test_all_18_datasets.R
+test_final_19_datasets.R
+test_all_76_datasets.R
+meta_meta_analysis.R
+meta_meta_results.rds
+
+# Claude Code
+.claude/
+
+# renv (users should initialize their own)
+renv/
+renv.lock
+.Rprofile
+
+# Zenodo raw data (too large for GitHub)
+zenodo_data/
+
+# Development documentation
+CLAUDE.md
+
+# Temporary files
+man/*.Rd~
+vignettes/*.html
+vignettes/*.pdf
