@@ -14,7 +14,11 @@ DTA70 is an R package containing 76 diagnostic test accuracy (DTA) datasets with
 ## Installation
 
 ```r
-# Install from local source
+# Install from GitHub
+install.packages("devtools")  # if not already installed
+devtools::install_github("mahmood789/DTA70")
+
+# Or install from local source
 install.packages("path/to/DTA70_0.1.0.tar.gz", repos = NULL, type = "source")
 ```
 
