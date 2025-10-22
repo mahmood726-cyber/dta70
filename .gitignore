@@ -45,3 +45,7 @@ CLAUDE.md
 man/*.Rd~
 vignettes/*.html
 vignettes/*.pdf
+nul
+*.png
+*_meta_meta_results.csv
+*_meta_meta_analysis.R
