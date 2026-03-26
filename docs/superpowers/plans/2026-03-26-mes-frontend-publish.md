@@ -144,6 +144,7 @@ Build `app/mes-app.html` with:
 - JSON import (same format as built-in datasets)
 - Built-in dataset selector (dropdown): BCG Vaccine, Robust Example, Fragile Example, Unstable Example
 - "Load Dataset" button → populates table
+- **Built-in datasets embedded as inline JS objects** (not external fetch — single-file app must work from `file:///`): `const BUILT_IN = { bcg: [...], robust: [...], fragile: [...], unstable: [...] }`
 - localStorage persistence (key: `mes_app_studies`)
 - Study count + summary stats display
 - "Run MES Analysis" button (calls `runAnalysis()` — stub for now)
@@ -200,9 +201,11 @@ Port from `ci_methods.py`: `waldCI(theta,se,alpha)`, `hksjCI(theta,se,yi,vi,tau2
 
 Port from `bias_corrections.py`: `trimFill(yi,vi)`, `petPeese(yi,vi)`, `selectionModel(yi,vi)`.
 
-- [ ] **Step 4: Port statistical utilities**
+- [ ] **Step 4: Port statistical utilities + bias detection**
 
 `normalCDF(x)`, `normalQuantile(p)`, `tCDF(x,df)`, `tQuantile(p,df)`, `chi2Quantile(p,df)` — from `stats-utils.js` patterns in existing apps.
+
+Also port bias detection for Tab 2: `eggerTest(yi,vi)` → p-value, `beggTest(yi,vi)` → p-value, `excessSignificance(yi,vi)` → count. From `bias_profiler.py`.
 
 - [ ] **Step 5: Port spec generator + executor**
 
@@ -361,7 +364,11 @@ Generate metafor-compatible R script that reproduces the analysis. Copy button.
 
 SHA-256 hash of input data + spec + results (using SubtleCrypto API). Display: provenance chain, timestamps, certification status (PASS/WARN/REJECT). Export as JSON button.
 
-- [ ] **Step 4: Implement print-ready report**
+- [ ] **Step 4: Implement GRADE-MES mapping**
+
+Map MES robustness to GRADE certainty: ROBUST → HIGH, MODERATE → MODERATE, FRAGILE → LOW, UNSTABLE → VERY LOW. Display as table with upgrade/downgrade rationale from conditional robustness and influence decomposition.
+
+- [ ] **Step 5: Implement print-ready report**
 
 "Generate Report" button → opens print dialog with formatted HTML report (landscape verdict, key visualizations as embedded SVGs, methods text). CSS `@media print` styles.
 
