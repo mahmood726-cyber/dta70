@@ -1,0 +1,33 @@
+Package: DTAimproved
+Type: Package
+Title: Improved Methods for Diagnostic Test Accuracy Meta-Analysis
+Version: 0.1.0
+Authors@R: c(
+    person("DTA", "Researcher",
+           email = "researcher@example.com",
+           role = c("aut", "cre"))
+  )
+Description: Improved meta-analysis methods for diagnostic test accuracy studies
+    based on comprehensive evaluation of existing methods. Includes adaptive
+    method selection, robust estimators for sparse data, and ensemble methods.
+    These methods address key flaws identified in standard approaches including
+    Moses-Littenberg bias, sparse data handling, and convergence issues.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
+Depends:
+    R (>= 3.5.0)
+Imports:
+    mada,
+    meta,
+    boot,
+    robustbase,
+    stats
+Suggests:
+    testthat (>= 3.0.0),
+    knitr,
+    rmarkdown
+URL: https://github.com/mahmood789/DTAimproved
+BugReports: https://github.com/mahmood789/DTAimproved/issues
+VignetteBuilder: knitr

@@ -113,15 +113,15 @@ Datasets are sourced from:
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/yourusername/DTA70}
-  \item Report bugs at \url{https://github.com/yourusername/DTA70/issues}
+  \item \url{https://github.com/mahmood789/DTA70}
+  \item Report bugs at \url{https://github.com/mahmood789/DTA70/issues}
 }
 
 
 Useful links:
 \itemize{
-  \item \url{https://github.com/yourusername/DTA70}
-  \item Report bugs at \url{https://github.com/yourusername/DTA70/issues}
+  \item \url{https://github.com/mahmood789/DTA70}
+  \item Report bugs at \url{https://github.com/mahmood789/DTA70/issues}
 }
 
 }

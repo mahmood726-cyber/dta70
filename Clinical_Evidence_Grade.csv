@@ -1,0 +1,77 @@
+"Dataset","Verdict","Score","Drivers","IAI","Strategy","Sens","Spec","Studies"
+"AuditC_data","CONDITIONAL",78.4,"None",0.973,"tier2_bivariate",0.871,0.782,14
+"Cochrane_CD007394","CONDITIONAL",59.6,"Sparse Data",0.993,"tier5_bayesian",0.578,0.729,57
+"Cochrane_CD007427","CONDITIONAL",59.9,"None",0.998,"tier5_bayesian",0.541,0.641,176
+"Cochrane_CD008054","CONDITIONAL",59.9,"Sparse Data",0.998,"tier5_bayesian",0.682,0.533,262
+"Cochrane_CD008081","IMMUTABLE TRUTH",97.3,"None",0.955,"tier2_bivariate",0.807,0.845,12
+"Cochrane_CD008686","CONDITIONAL",59.2,"Sparse Data; Extreme Prevalence",0.988,"tier5_bayesian",0.451,0.736,31
+"Cochrane_CD008760","CONDITIONAL",59.6,"Sparse Data",0.993,"tier5_bayesian",0.673,0.665,53
+"Cochrane_CD008782","CONDITIONAL",59.1,"None",0.985,"tier5_bayesian",0.623,0.572,25
+"Cochrane_CD008803","CONDITIONAL",60,"None",1,"tier5_bayesian",0.564,0.74,1018
+"Cochrane_CD008892","CONDITIONAL",59.8,"None",0.997,"tier5_bayesian",0.641,0.685,154
+"Cochrane_CD009020","CONDITIONAL",58.8,"Sparse Data",0.981,"tier5_bayesian",0.699,0.7,61
+"Cochrane_CD009135","CONDITIONAL",59.6,"None",0.993,"tier5_bayesian",0.717,0.752,55
+"Cochrane_CD009185","CONDITIONAL",59.5,"None",0.992,"tier5_bayesian",0.688,0.53,50
+"Cochrane_CD009323","CONDITIONAL",67.9,"Sparse Data",0.798,"tier5_bayesian",0.569,0.816,23
+"Cochrane_CD009372","IMMUTABLE TRUTH",83.5,"Sparse Data",0.726,"tier2_bivariate",0.922,0.971,11
+"Cochrane_CD009519","CONDITIONAL",59.5,"None",0.991,"tier5_bayesian",0.619,0.717,45
+"Cochrane_CD009551","CONDITIONAL",59.3,"Sparse Data",0.988,"tier5_bayesian",0.604,0.7,33
+"Cochrane_CD009579","CONDITIONAL",59.9,"None",0.998,"tier5_bayesian",0.613,0.675,180
+"Cochrane_CD009591","CONDITIONAL",59.8,"Sparse Data",0.997,"tier5_bayesian",0.668,0.768,144
+"Cochrane_CD009593","CONDITIONAL",79.9,"Sparse Data",0.999,"tier5_bayesian",0.716,0.837,312
+"Cochrane_CD009647","CONDITIONAL",59.9,"Sparse Data",0.999,"tier5_bayesian",0.396,0.604,322
+"Cochrane_CD009786","FRAGILE",50,"Low Sample Size; Sparse Data",0.5,"tier2_bivariate",0.626,0.944,5
+"Cochrane_CD009944","CONDITIONAL",59.9,"Sparse Data",0.998,"tier5_bayesian",0.678,0.662,160
+"Cochrane_CD010023","FRAGILE",43.9,"Sparse Data",0.732,"tier5_bayesian",0.698,0.77,15
+"Cochrane_CD010079","CONDITIONAL",59.6,"None",0.993,"tier5_bayesian",0.655,0.693,53
+"Cochrane_CD010173","CONDITIONAL",78.2,"None",0.969,"tier2_bivariate",0.779,0.972,12
+"Cochrane_CD010276","CONDITIONAL",59.5,"Sparse Data",0.991,"tier5_bayesian",0.697,0.617,44
+"Cochrane_CD010339","IMMUTABLE TRUTH",85.1,"Sparse Data",0.752,"tier2_bivariate",0.853,0.968,10
+"Cochrane_CD010360","CONDITIONAL",59.8,"Sparse Data",0.997,"tier5_bayesian",0.77,0.796,114
+"Cochrane_CD010386","CONDITIONAL",50.8,"Low Sample Size; Sparse Data",0.514,"tier2_bivariate",0.861,0.583,13
+"Cochrane_CD010409","CONDITIONAL",79.8,"Sparse Data",0.997,"tier5_bayesian",0.709,0.82,125
+"Cochrane_CD010438","CONDITIONAL",77.4,"Few Studies; Sparse Data",0.623,"tier1_firth",0.922,0.829,4
+"Cochrane_CD010502","CONDITIONAL",79.9,"None",0.999,"tier5_bayesian",0.705,0.82,341
+"Cochrane_CD010542","CONDITIONAL",54.7,"Sparse Data",0.911,"tier5_bayesian",0.726,0.616,53
+"Cochrane_CD010632","FRAGILE",41,"Low Sample Size; Sparse Data",0.683,"tier5_bayesian",0.616,0.613,94
+"Cochrane_CD010633","CONDITIONAL",61.3,"Low Sample Size; Few Studies; Sparse Data",0.355,"tier1_firth",0.919,0.863,4
+"Cochrane_CD010653","CONDITIONAL",59.5,"None",0.991,"tier5_bayesian",0.543,0.672,43
+"Cochrane_CD010657","CONDITIONAL",59.7,"None",0.995,"tier5_bayesian",0.576,0.563,75
+"Cochrane_CD010705","CONDITIONAL",79.9,"Sparse Data",0.999,"tier5_bayesian",0.672,0.828,326
+"Cochrane_CD010771","IMMUTABLE TRUTH",96.6,"Sparse Data",0.943,"tier2_bivariate",0.856,0.903,6
+"Cochrane_CD010772","CONDITIONAL",59.7,"None",0.995,"tier5_bayesian",0.748,0.59,87
+"Cochrane_CD010775","CONDITIONAL",77,"None",0.95,"tier2_bivariate",0.945,0.589,7
+"Cochrane_CD010783","CONDITIONAL",58.3,"None",0.971,"tier2_bivariate",0.543,0.769,13
+"Cochrane_CD010860","IMMUTABLE TRUTH",94,"Few Studies",0.9,"tier1_firth",0.936,0.887,3
+"Cochrane_CD010896","FRAGILE",49.4,"Sparse Data",0.823,"tier5_bayesian",0.601,0.72,16
+"Cochrane_CD011134","CONDITIONAL",59.7,"None",0.996,"tier5_bayesian",0.615,0.731,89
+"Cochrane_CD011145","CONDITIONAL",59.9,"Sparse Data",0.998,"tier5_bayesian",0.665,0.664,161
+"Cochrane_CD011420","CONDITIONAL",59.8,"None",0.997,"tier5_bayesian",0.468,0.769,147
+"Cochrane_CD011431","CONDITIONAL",79.8,"Sparse Data",0.997,"tier5_bayesian",0.673,0.874,126
+"Cochrane_CD011515","FRAGILE",37.2,"Low Sample Size; Few Studies",0.287,"tier1_firth",0.854,0.781,2
+"Cochrane_CD011548","CONDITIONAL",77.6,"None",0.96,"tier2_bivariate",0.659,0.913,9
+"Cochrane_CD011549","CONDITIONAL",58.9,"Sparse Data",0.981,"tier5_bayesian",0.759,0.799,20
+"Cochrane_CD011975","CONDITIONAL",59.9,"Extreme Prevalence",0.999,"tier5_bayesian",0.537,0.79,279
+"Cochrane_CD011984","CONDITIONAL",79.7,"Extreme Prevalence",0.995,"tier5_bayesian",0.53,0.813,76
+"Cochrane_CD012019","FRAGILE",41.5,"None",0.692,"tier2_bivariate",0.7,0.708,10
+"Cochrane_CD012165","FRAGILE",48,"Sparse Data",0.8,"tier5_bayesian",0.657,0.614,48
+"Cochrane_CD012179","CONDITIONAL",59.9,"None",0.998,"tier5_bayesian",0.578,0.653,207
+"Cochrane_CD012281","CONDITIONAL",59.1,"None",0.986,"tier5_bayesian",0.655,0.736,27
+"COVID_AntigenTests_Cochrane2021","CONDITIONAL",78.9,"None",0.981,"tier5_bayesian",0.664,0.853,20
+"CT_Colonography_Whiting2011","IMMUTABLE TRUTH",87,"None",0.783,"tier2_bivariate",0.834,0.841,10
+"DDimer_PE_Crawford2020","CONDITIONAL",59,"None",0.983,"tier5_bayesian",0.799,0.66,22
+"Dementia_data","CONDITIONAL",59.3,"None",0.988,"tier5_bayesian",0.665,0.741,33
+"Depression_Screening_Gilbody2008","IMMUTABLE TRUTH",98.3,"None",0.971,"tier2_bivariate",0.844,0.863,13
+"DVT_Ultrasound_Goodacre2005","CONDITIONAL",78.5,"None",0.975,"tier5_bayesian",0.761,0.838,15
+"FENO_Asthma_Schneider2017","CONDITIONAL",59.8,"None",0.997,"tier5_bayesian",0.556,0.643,150
+"HSTroponin_MI_Body2014","CONDITIONAL",58.6,"None",0.976,"tier5_bayesian",0.755,0.621,16
+"IAQ_data","CONDITIONAL",78.9,"None",0.981,"tier5_bayesian",0.815,0.773,20
+"IQCODE_Dementia_MetaDTA","CONDITIONAL",78.3,"None",0.971,"tier2_bivariate",0.89,0.658,13
+"MRI_Prostate_Futterer2015","CONDITIONAL",58.5,"None",0.975,"tier5_bayesian",0.697,0.68,15
+"POCUS_Shock_Yoshida2023","IMMUTABLE TRUTH",90.4,"None",0.84,"tier2_bivariate",0.941,0.936,12
+"Procalcitonin_Sepsis_Wacker2013","CONDITIONAL",58.7,"None",0.979,"tier5_bayesian",0.687,0.635,18
+"SAQ_data","CONDITIONAL",59.2,"None",0.988,"tier5_bayesian",0.725,0.765,31
+"SkinTests_data","CONDITIONAL",77.8,"None",0.964,"tier2_bivariate",0.281,0.967,10
+"Smoking_data","CONDITIONAL",59.5,"None",0.992,"tier5_bayesian",0.763,0.768,51
+"TB_SmearMicroscopy_Steingart2006","CONDITIONAL",78.9,"None",0.981,"tier5_bayesian",0.629,0.862,20
+"XpertMTB_RIF_Tuberculosis2014","CONDITIONAL",78.7,"None",0.978,"tier5_bayesian",0.705,0.851,17

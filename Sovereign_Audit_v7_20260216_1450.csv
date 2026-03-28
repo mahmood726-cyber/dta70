@@ -1,0 +1,77 @@
+"Dataset","Verdict","Score","IAI","Drivers","Sens","Spec"
+"AuditC_data","CONDITIONAL",78.4,0.973,"Sparse Data (Zero Cells)",0.871,0.782
+"Cochrane_CD007394","CONDITIONAL",59.6,0.993,"Sparse Data (Zero Cells)",0.581,0.728
+"Cochrane_CD007427","CONDITIONAL",59.9,0.998,"Sparse Data (Zero Cells)",0.54,0.641
+"Cochrane_CD008054","CONDITIONAL",59.9,0.998,"Sparse Data (Zero Cells)",0.682,0.533
+"Cochrane_CD008081","IMMUTABLE TRUTH",97.3,0.955,"Sparse Data (Zero Cells)",0.807,0.845
+"Cochrane_CD008686","CONDITIONAL",59.2,0.988,"Sparse Data (Zero Cells)",0.461,0.736
+"Cochrane_CD008760","CONDITIONAL",59.6,0.993,"Sparse Data (Zero Cells)",0.672,0.663
+"Cochrane_CD008782","CONDITIONAL",59.1,0.985,"Sparse Data (Zero Cells)",0.622,0.572
+"Cochrane_CD008803","CONDITIONAL",60,1,"Sparse Data (Zero Cells)",0.564,0.74
+"Cochrane_CD008892","CONDITIONAL",59.8,0.997,"Sparse Data (Zero Cells)",0.641,0.685
+"Cochrane_CD009020","CONDITIONAL",58.8,0.981,"Sparse Data (Zero Cells)",0.701,0.698
+"Cochrane_CD009135","CONDITIONAL",59.6,0.993,"Sparse Data (Zero Cells)",0.717,0.752
+"Cochrane_CD009185","CONDITIONAL",59.5,0.992,"Sparse Data (Zero Cells)",0.69,0.529
+"Cochrane_CD009323","CONDITIONAL",67.9,0.798,"Sparse Data (Zero Cells)",0.571,0.812
+"Cochrane_CD009372","IMMUTABLE TRUTH",83.5,0.726,"Sparse Data (Zero Cells)",0.922,0.971
+"Cochrane_CD009519","CONDITIONAL",59.5,0.991,"Sparse Data (Zero Cells)",0.62,0.717
+"Cochrane_CD009551","CONDITIONAL",59.3,0.988,"Sparse Data (Zero Cells)",0.603,0.699
+"Cochrane_CD009579","CONDITIONAL",59.9,0.998,"Sparse Data (Zero Cells)",0.612,0.676
+"Cochrane_CD009591","CONDITIONAL",59.8,0.997,"Sparse Data (Zero Cells)",0.668,0.767
+"Cochrane_CD009593","CONDITIONAL",79.9,0.999,"Sparse Data (Zero Cells)",0.716,0.837
+"Cochrane_CD009647","CONDITIONAL",59.9,0.999,"Sparse Data (Zero Cells)",0.395,0.604
+"Cochrane_CD009786","FRAGILE",50,0.5,"Low Sample Size (OIS < 50%); Sparse Data (Zero Cells)",0.626,0.944
+"Cochrane_CD009944","CONDITIONAL",59.9,0.998,"Sparse Data (Zero Cells)",0.679,0.661
+"Cochrane_CD010023","FRAGILE",43.9,0.732,"Sparse Data (Zero Cells)",0.697,0.771
+"Cochrane_CD010079","CONDITIONAL",59.6,0.993,"None (Robust)",0.655,0.693
+"Cochrane_CD010173","CONDITIONAL",78.2,0.969,"None (Robust)",0.779,0.972
+"Cochrane_CD010276","CONDITIONAL",59.5,0.991,"Sparse Data (Zero Cells)",0.698,0.616
+"Cochrane_CD010339","IMMUTABLE TRUTH",85.1,0.752,"Sparse Data (Zero Cells)",0.853,0.968
+"Cochrane_CD010360","CONDITIONAL",59.8,0.997,"Sparse Data (Zero Cells)",0.77,0.796
+"Cochrane_CD010386","CONDITIONAL",50.8,0.514,"Low Sample Size (OIS < 50%); Sparse Data (Zero Cells)",0.861,0.583
+"Cochrane_CD010409","CONDITIONAL",79.8,0.997,"Sparse Data (Zero Cells)",0.711,0.821
+"Cochrane_CD010438","CONDITIONAL",77.4,0.623,"Small Number of Studies (k < 5); Sparse Data (Zero Cells)",0.922,0.829
+"Cochrane_CD010502","CONDITIONAL",79.9,0.999,"Sparse Data (Zero Cells)",0.705,0.82
+"Cochrane_CD010542","CONDITIONAL",54.7,0.911,"Sparse Data (Zero Cells)",0.726,0.614
+"Cochrane_CD010632","FRAGILE",41,0.683,"Low Sample Size (OIS < 50%); Sparse Data (Zero Cells)",0.618,0.614
+"Cochrane_CD010633","CONDITIONAL",61.3,0.355,"Low Sample Size (OIS < 50%); Small Number of Studies (k < 5); Sparse Data (Zero Cells)",0.919,0.863
+"Cochrane_CD010653","CONDITIONAL",59.5,0.991,"Sparse Data (Zero Cells)",0.543,0.671
+"Cochrane_CD010657","CONDITIONAL",59.7,0.995,"Sparse Data (Zero Cells)",0.575,0.563
+"Cochrane_CD010705","CONDITIONAL",79.9,0.999,"Sparse Data (Zero Cells)",0.672,0.828
+"Cochrane_CD010771","IMMUTABLE TRUTH",96.6,0.943,"Sparse Data (Zero Cells)",0.856,0.903
+"Cochrane_CD010772","CONDITIONAL",59.7,0.995,"Sparse Data (Zero Cells)",0.749,0.589
+"Cochrane_CD010775","CONDITIONAL",77,0.95,"Sparse Data (Zero Cells)",0.945,0.589
+"Cochrane_CD010783","CONDITIONAL",58.3,0.971,"None (Robust)",0.543,0.769
+"Cochrane_CD010860","IMMUTABLE TRUTH",94,0.9,"Small Number of Studies (k < 5)",0.936,0.887
+"Cochrane_CD010896","FRAGILE",49.4,0.823,"Sparse Data (Zero Cells)",0.601,0.718
+"Cochrane_CD011134","CONDITIONAL",59.7,0.996,"Sparse Data (Zero Cells)",0.614,0.73
+"Cochrane_CD011145","CONDITIONAL",59.9,0.998,"Sparse Data (Zero Cells)",0.666,0.663
+"Cochrane_CD011420","CONDITIONAL",59.8,0.997,"Sparse Data (Zero Cells)",0.468,0.769
+"Cochrane_CD011431","CONDITIONAL",79.8,0.997,"Sparse Data (Zero Cells)",0.672,0.874
+"Cochrane_CD011515","FRAGILE",37.2,0.287,"Low Sample Size (OIS < 50%); Small Number of Studies (k < 5)",0.854,0.781
+"Cochrane_CD011548","CONDITIONAL",77.6,0.96,"Sparse Data (Zero Cells)",0.659,0.913
+"Cochrane_CD011549","CONDITIONAL",78.9,0.981,"Sparse Data (Zero Cells)",0.76,0.801
+"Cochrane_CD011975","CONDITIONAL",59.9,0.999,"Sparse Data (Zero Cells)",0.536,0.79
+"Cochrane_CD011984","CONDITIONAL",79.7,0.995,"Sparse Data (Zero Cells)",0.528,0.813
+"Cochrane_CD012019","FRAGILE",41.5,0.692,"None (Robust)",0.7,0.708
+"Cochrane_CD012165","FRAGILE",48,0.8,"Sparse Data (Zero Cells)",0.656,0.613
+"Cochrane_CD012179","CONDITIONAL",59.9,0.998,"Sparse Data (Zero Cells)",0.578,0.653
+"Cochrane_CD012281","CONDITIONAL",59.1,0.986,"Sparse Data (Zero Cells)",0.655,0.737
+"COVID_AntigenTests_Cochrane2021","CONDITIONAL",78.9,0.981,"None (Robust)",0.665,0.852
+"CT_Colonography_Whiting2011","IMMUTABLE TRUTH",87,0.783,"None (Robust)",0.834,0.841
+"DDimer_PE_Crawford2020","CONDITIONAL",59,0.983,"None (Robust)",0.799,0.659
+"Dementia_data","CONDITIONAL",59.3,0.988,"Sparse Data (Zero Cells)",0.667,0.741
+"Depression_Screening_Gilbody2008","IMMUTABLE TRUTH",98.3,0.971,"None (Robust)",0.844,0.863
+"DVT_Ultrasound_Goodacre2005","CONDITIONAL",78.5,0.975,"None (Robust)",0.76,0.838
+"FENO_Asthma_Schneider2017","CONDITIONAL",59.8,0.997,"Sparse Data (Zero Cells)",0.557,0.643
+"HSTroponin_MI_Body2014","CONDITIONAL",58.6,0.976,"None (Robust)",0.754,0.621
+"IAQ_data","CONDITIONAL",78.9,0.981,"Sparse Data (Zero Cells)",0.815,0.773
+"IQCODE_Dementia_MetaDTA","CONDITIONAL",78.3,0.971,"Sparse Data (Zero Cells)",0.89,0.658
+"MRI_Prostate_Futterer2015","CONDITIONAL",58.5,0.975,"None (Robust)",0.698,0.68
+"POCUS_Shock_Yoshida2023","IMMUTABLE TRUTH",90.4,0.84,"None (Robust)",0.941,0.936
+"Procalcitonin_Sepsis_Wacker2013","CONDITIONAL",58.7,0.979,"None (Robust)",0.687,0.636
+"SAQ_data","CONDITIONAL",59.2,0.988,"Sparse Data (Zero Cells)",0.724,0.765
+"SkinTests_data","CONDITIONAL",77.8,0.964,"None (Robust)",0.281,0.967
+"Smoking_data","CONDITIONAL",59.5,0.992,"Sparse Data (Zero Cells)",0.763,0.768
+"TB_SmearMicroscopy_Steingart2006","CONDITIONAL",78.9,0.981,"None (Robust)",0.627,0.862
+"XpertMTB_RIF_Tuberculosis2014","CONDITIONAL",78.7,0.978,"None (Robust)",0.705,0.851

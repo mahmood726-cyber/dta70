@@ -1,0 +1,22 @@
+"Dataset","Verdict","Score","IAI","Strategy","Sens","Spec"
+"AuditC_data","CONDITIONAL",78.4,0.973,"tier3_ensemble",0.925,0.785
+"Cochrane_CD008081","IMMUTABLE TRUTH",97.3,0.955,"tier2_bivariate",0.807,0.845
+"Cochrane_CD009372","IMMUTABLE TRUTH",83.5,0.726,"tier2_bivariate",0.922,0.971
+"Cochrane_CD009786","FRAGILE",50,0.5,"tier2_bivariate",0.626,0.944
+"Cochrane_CD010173","CONDITIONAL",78.2,0.969,"tier2_bivariate",0.779,0.972
+"Cochrane_CD010339","IMMUTABLE TRUTH",85.1,0.752,"tier2_bivariate",0.853,0.968
+"Cochrane_CD010386","CONDITIONAL",50.8,0.514,"tier2_bivariate",0.861,0.583
+"Cochrane_CD010438","CONDITIONAL",77.4,0.623,"tier1_firth",0.922,0.829
+"Cochrane_CD010633","CONDITIONAL",61.3,0.355,"tier1_firth",0.919,0.863
+"Cochrane_CD010771","IMMUTABLE TRUTH",96.6,0.943,"tier3_ensemble",0.92,0.911
+"Cochrane_CD010775","CONDITIONAL",77,0.95,"tier2_bivariate",0.945,0.589
+"Cochrane_CD010783","CONDITIONAL",58.3,0.971,"tier3_ensemble",0.548,0.774
+"Cochrane_CD010860","IMMUTABLE TRUTH",94,0.9,"tier1_firth",0.936,0.887
+"Cochrane_CD011515","FRAGILE",37.2,0.287,"tier1_firth",0.854,0.781
+"Cochrane_CD011548","CONDITIONAL",77.6,0.96,"tier2_bivariate",0.659,0.913
+"Cochrane_CD012019","FRAGILE",41.5,0.692,"tier2_bivariate",0.7,0.708
+"CT_Colonography_Whiting2011","IMMUTABLE TRUTH",87,0.783,"tier2_bivariate",0.834,0.841
+"Depression_Screening_Gilbody2008","IMMUTABLE TRUTH",98.3,0.971,"tier2_bivariate",0.844,0.863
+"IQCODE_Dementia_MetaDTA","CONDITIONAL",78.3,0.971,"tier2_bivariate",0.89,0.658
+"POCUS_Shock_Yoshida2023","IMMUTABLE TRUTH",90.4,0.84,"tier2_bivariate",0.941,0.936
+"SkinTests_data","CONDITIONAL",77.8,0.964,"tier2_bivariate",0.281,0.967

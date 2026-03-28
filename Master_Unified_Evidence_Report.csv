@@ -1,0 +1,22 @@
+"Dataset","Verdict","Score","IAI","IF","Strategy","Studies","Total_N","Sens","Spec","Runtime"
+"AuditC_data","CONDITIONAL",78.4,0.973,10.784,"tier3_ensemble",14,18332,0.925,0.782,0.37
+"Cochrane_CD008081","IMMUTABLE TRUTH",97.3,0.955,0.976,"tier2_bivariate",12,1561,0.807,0.845,0.14
+"Cochrane_CD009372","IMMUTABLE TRUTH",83.5,0.726,0.598,"tier2_bivariate",11,927,0.922,0.971,0.03
+"Cochrane_CD009786","FRAGILE",50,0.5,0.278,"tier2_bivariate",5,347,0.626,0.944,0
+"Cochrane_CD010173","CONDITIONAL",78.2,0.969,37.742,"tier2_bivariate",12,60387,0.779,0.972,0
+"Cochrane_CD010339","IMMUTABLE TRUTH",85.1,0.752,0.648,"tier2_bivariate",10,972,0.853,0.968,0
+"Cochrane_CD010386","CONDITIONAL",50.8,0.514,0.237,"tier2_bivariate",13,391,0.861,0.583,0
+"Cochrane_CD010438","CONDITIONAL",77.4,0.623,0.505,"tier1_firth",4,606,0.922,0.829,0.04
+"Cochrane_CD010633","CONDITIONAL",61.3,0.355,0.058,"tier1_firth",4,69,0.919,0.863,0
+"Cochrane_CD010771","IMMUTABLE TRUTH",96.6,0.943,1.062,"tier3_ensemble",6,1380,0.92,0.911,0.19
+"Cochrane_CD010775","CONDITIONAL",77,0.95,6.952,"tier2_bivariate",7,9385,0.945,0.589,0
+"Cochrane_CD010783","CONDITIONAL",58.3,0.971,1.376,"tier3_ensemble",13,2271,0.548,0.774,0.18
+"Cochrane_CD010860","IMMUTABLE TRUTH",94,0.9,1.409,"tier1_firth",3,1620,0.936,0.887,0
+"Cochrane_CD011515","FRAGILE",37.2,0.287,0.035,"tier1_firth",2,38,0.854,0.781,0
+"Cochrane_CD011548","CONDITIONAL",77.6,0.96,1.082,"tier2_bivariate",9,1569,0.659,0.913,0
+"Cochrane_CD012019","FRAGILE",41.5,0.692,0.547,"tier2_bivariate",10,820,0.7,0.708,0
+"CT_Colonography_Whiting2011","IMMUTABLE TRUTH",87,0.783,0.699,"tier2_bivariate",10,1048,0.834,0.841,0
+"Depression_Screening_Gilbody2008","IMMUTABLE TRUTH",98.3,0.971,2.279,"tier2_bivariate",13,3760,0.844,0.863,0
+"IQCODE_Dementia_MetaDTA","CONDITIONAL",78.3,0.971,1.664,"tier2_bivariate",13,2745,0.89,0.658,0
+"POCUS_Shock_Yoshida2023","IMMUTABLE TRUTH",90.4,0.84,0.785,"tier2_bivariate",12,1256,0.941,0.936,0
+"SkinTests_data","CONDITIONAL",77.8,0.964,1.934,"tier2_bivariate",10,2901,0.281,0.967,0

@@ -17,3 +17,12 @@
 ^zenodo_data$
 ^test_final_19_datasets\.R$
 ^test_all_76_datasets\.R$
+^.*\.csv$
+^.*\.html$
+^.*\.png$
+^.*\.rds$
+^DTA_STACK_MATH_MODEL\.md$
+^DTAimproved$
+^dta_methods_research$
+^r_package_test_pdfs$
+^batch_results_test$

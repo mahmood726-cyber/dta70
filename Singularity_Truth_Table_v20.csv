@@ -1,0 +1,77 @@
+"Dataset","Verdict","Action","Prob_Efficacy","Sens","Spec"
+"AuditC_data","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.856,0.79
+"Cochrane_CD007394","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.65,0.879
+"Cochrane_CD007427","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",100,0.582,0.751
+"Cochrane_CD008054","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.837,0.565
+"Cochrane_CD008081","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.799,0.846
+"Cochrane_CD008686","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",4.4,0.408,0.883
+"Cochrane_CD008760","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.785,0.804
+"Cochrane_CD008782","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.741,0.652
+"Cochrane_CD008803","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",99.5,0.513,0.727
+"Cochrane_CD008892","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.745,0.823
+"Cochrane_CD009020","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.847,0.848
+"Cochrane_CD009135","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.86,0.905
+"Cochrane_CD009185","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",98.6,0.823,0.573
+"Cochrane_CD009323","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",99.8,0.633,0.978
+"Cochrane_CD009372","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.927,0.967
+"Cochrane_CD009519","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.719,0.858
+"Cochrane_CD009551","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.698,0.837
+"Cochrane_CD009579","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.712,0.81
+"Cochrane_CD009591","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.81,0.929
+"Cochrane_CD009593","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.861,0.978
+"Cochrane_CD009647","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",0,0.298,0.698
+"Cochrane_CD009786","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",100,0.662,0.946
+"Cochrane_CD009944","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.819,0.796
+"Cochrane_CD010023","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",100,0.818,0.935
+"Cochrane_CD010079","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.782,0.835
+"Cochrane_CD010173","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",99.8,0.775,0.969
+"Cochrane_CD010276","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.843,0.74
+"Cochrane_CD010339","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.836,0.965
+"Cochrane_CD010360","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.922,0.944
+"Cochrane_CD010386","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",100,0.846,0.619
+"Cochrane_CD010409","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.879,0.981
+"Cochrane_CD010438","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",100,0.921,0.815
+"Cochrane_CD010502","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.843,0.949
+"Cochrane_CD010542","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.868,0.744
+"Cochrane_CD010632","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",100,0.714,0.719
+"Cochrane_CD010633","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",100,0.823,0.829
+"Cochrane_CD010653","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.582,0.811
+"Cochrane_CD010657","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",100,0.642,0.62
+"Cochrane_CD010705","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.814,0.97
+"Cochrane_CD010771","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.829,0.915
+"Cochrane_CD010772","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.889,0.677
+"Cochrane_CD010775","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.946,0.647
+"Cochrane_CD010783","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",91.8,0.571,0.78
+"Cochrane_CD010860","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.957,0.87
+"Cochrane_CD010896","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",100,0.689,0.869
+"Cochrane_CD011134","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.709,0.878
+"Cochrane_CD011145","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.795,0.808
+"Cochrane_CD011420","ROBUST","EQUIVOCAL: Larger, multi-center trials required.",0,0.426,0.918
+"Cochrane_CD011431","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.799,0.981
+"Cochrane_CD011515","CONDITIONAL","RESEARCH PRIORITY: Current evidence is fragile; do not use for critical decisions.",100,0.795,0.803
+"Cochrane_CD011548","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",99.8,0.675,0.92
+"Cochrane_CD011549","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.921,0.949
+"Cochrane_CD011975","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.572,0.935
+"Cochrane_CD011984","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",96.5,0.554,0.95
+"Cochrane_CD012019","CONDITIONAL","RESEARCH PRIORITY: Current evidence is fragile; do not use for critical decisions.",0,0.22,0.228
+"Cochrane_CD012165","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",100,0.774,0.719
+"Cochrane_CD012179","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.649,0.767
+"Cochrane_CD012281","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.775,0.892
+"COVID_AntigenTests_Cochrane2021","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.794,0.973
+"CT_Colonography_Whiting2011","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",100,0.82,0.843
+"DDimer_PE_Crawford2020","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.87,0.728
+"Dementia_data","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.783,0.874
+"Depression_Screening_Gilbody2008","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.831,0.861
+"DVT_Ultrasound_Goodacre2005","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.837,0.876
+"FENO_Asthma_Schneider2017","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.604,0.769
+"HSTroponin_MI_Body2014","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.815,0.663
+"IAQ_data","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.949,0.924
+"IQCODE_Dementia_MetaDTA","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.871,0.684
+"MRI_Prostate_Futterer2015","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",0.1,0.49,0.485
+"POCUS_Shock_Yoshida2023","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",100,0.746,0.743
+"Procalcitonin_Sepsis_Wacker2013","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.822,0.763
+"SAQ_data","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.874,0.913
+"SkinTests_data","CONDITIONAL","EQUIVOCAL: Larger, multi-center trials required.",2.6,0.359,0.964
+"Smoking_data","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.917,0.917
+"TB_SmearMicroscopy_Steingart2006","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.751,0.979
+"XpertMTB_RIF_Tuberculosis2014","ROBUST","ROBUST EVIDENCE: Suitable for clinical use with local validation.",100,0.768,0.888

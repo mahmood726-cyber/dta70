@@ -1,0 +1,77 @@
+"Dataset","GRADE","Label","Bias_P","Score","IAI","Sens","Spec"
+"AuditC_data","Low","CONDITIONAL","N/A",58.4,0.973,0.755,0.679
+"Cochrane_CD007394","Moderate","ROBUST","N/A",79.6,0.993,0.597,0.872
+"Cochrane_CD007427","Low","CONDITIONAL","N/A",59.9,0.998,0.599,0.733
+"Cochrane_CD008054","Moderate","ROBUST","N/A",79.9,0.998,0.853,0.505
+"Cochrane_CD008081","Low","CONDITIONAL","N/A",57.3,0.955,0.693,0.727
+"Cochrane_CD008686","Low","CONDITIONAL","N/A",59.2,0.988,0.384,0.829
+"Cochrane_CD008760","Moderate","ROBUST","N/A",79.6,0.993,0.809,0.867
+"Cochrane_CD008782","Low","CONDITIONAL","N/A",59.1,0.985,0.632,0.57
+"Cochrane_CD008803","Low","CONDITIONAL","0",65,1,0.612,0.887
+"Cochrane_CD008892","Low","CONDITIONAL","N/A",59.8,0.997,0.711,0.827
+"Cochrane_CD009020","High","IMMUTABLE TRUTH","N/A",98.8,0.981,0.875,0.871
+"Cochrane_CD009135","Moderate","ROBUST","N/A",79.6,0.993,0.825,0.924
+"Cochrane_CD009185","Low","CONDITIONAL","N/A",59.5,0.992,0.762,0.538
+"Cochrane_CD009323","Low","CONDITIONAL","N/A",47.9,0.798,0.567,0.819
+"Cochrane_CD009372","Very Low","FRAGILE","N/A",43.5,0.726,0.761,0.826
+"Cochrane_CD009519","Moderate","ROBUST","N/A",79.5,0.991,0.735,0.87
+"Cochrane_CD009551","Low","CONDITIONAL","N/A",59.3,0.988,0.679,0.804
+"Cochrane_CD009579","Low","CONDITIONAL","N/A",59.9,0.998,0.655,0.828
+"Cochrane_CD009591","Moderate","ROBUST","N/A",79.8,0.997,0.778,0.955
+"Cochrane_CD009593","High","IMMUTABLE TRUTH","N/A",99.9,0.999,0.875,0.985
+"Cochrane_CD009647","Low","CONDITIONAL","N/A",59.9,0.999,0.308,0.51
+"Cochrane_CD009786","Low","CONDITIONAL","N/A",50,0.5,0.662,0.946
+"Cochrane_CD009944","Low","CONDITIONAL","N/A",59.9,0.998,0.841,0.775
+"Cochrane_CD010023","Very Low","FRAGILE","N/A",43.9,0.732,0.704,0.78
+"Cochrane_CD010079","Very Low","FRAGILE","0.08",44.6,0.993,0.793,0.847
+"Cochrane_CD010173","Low","CONDITIONAL","0.354",58.2,0.969,0.665,0.849
+"Cochrane_CD010276","Moderate","ROBUST","N/A",79.5,0.991,0.857,0.703
+"Cochrane_CD010339","Low","CONDITIONAL","N/A",45.1,0.752,0.726,0.832
+"Cochrane_CD010360","High","IMMUTABLE TRUTH","N/A",99.8,0.997,0.922,0.948
+"Cochrane_CD010386","Very Low","FRAGILE","N/A",30.8,0.514,0.71,0.567
+"Cochrane_CD010409","High","IMMUTABLE TRUTH","N/A",99.8,0.997,0.921,0.999
+"Cochrane_CD010438","Low","CONDITIONAL","N/A",57.4,0.623,0.932,0.836
+"Cochrane_CD010502","Moderate","ROBUST","N/A",79.9,0.999,0.849,0.963
+"Cochrane_CD010542","Moderate","ROBUST","N/A",74.7,0.911,0.891,0.769
+"Cochrane_CD010632","Very Low","FRAGILE","N/A",41,0.683,0.728,0.715
+"Cochrane_CD010633","Low","CONDITIONAL","N/A",61.3,0.355,0.93,0.858
+"Cochrane_CD010653","Low","CONDITIONAL","0.603",59.5,0.991,0.556,0.782
+"Cochrane_CD010657","Low","CONDITIONAL","N/A",59.7,0.995,0.63,0.626
+"Cochrane_CD010705","Moderate","ROBUST","N/A",79.9,0.999,0.803,0.98
+"Cochrane_CD010771","Moderate","ROBUST","N/A",76.6,0.943,0.829,0.915
+"Cochrane_CD010772","Moderate","ROBUST","N/A",79.7,0.995,0.891,0.7
+"Cochrane_CD010775","Moderate","ROBUST","N/A",77,0.95,0.946,0.58
+"Cochrane_CD010783","Low","CONDITIONAL","0.69",58.3,0.971,0.525,0.673
+"Cochrane_CD010860","High","IMMUTABLE TRUTH","N/A",94,0.9,0.941,0.872
+"Cochrane_CD010896","Low","CONDITIONAL","N/A",49.4,0.823,0.618,0.735
+"Cochrane_CD011134","Low","CONDITIONAL","0.441",59.7,0.996,0.71,0.843
+"Cochrane_CD011145","Low","CONDITIONAL","N/A",59.9,0.998,0.784,0.777
+"Cochrane_CD011420","Moderate","ROBUST","N/A",79.8,0.997,0.431,0.915
+"Cochrane_CD011431","Moderate","ROBUST","N/A",79.8,0.997,0.813,0.979
+"Cochrane_CD011515","Very Low","FRAGILE","N/A",17.2,0.287,0.802,0.816
+"Cochrane_CD011548","Moderate","ROBUST","N/A",77.6,0.96,0.675,0.92
+"Cochrane_CD011549","Low","CONDITIONAL","N/A",58.9,0.981,0.758,0.804
+"Cochrane_CD011975","Moderate","ROBUST","N/A",79.9,0.999,0.565,0.912
+"Cochrane_CD011984","Moderate","ROBUST","N/A",79.7,0.995,0.48,0.948
+"Cochrane_CD012019","Very Low","FRAGILE","0.017",26.5,0.692,0.627,0.664
+"Cochrane_CD012165","Low","CONDITIONAL","N/A",48,0.8,0.758,0.73
+"Cochrane_CD012179","Low","CONDITIONAL","N/A",59.9,0.998,0.639,0.742
+"Cochrane_CD012281","Low","CONDITIONAL","N/A",59.1,0.986,0.662,0.744
+"COVID_AntigenTests_Cochrane2021","Moderate","ROBUST","0.327",78.9,0.981,0.672,0.853
+"CT_Colonography_Whiting2011","Low","CONDITIONAL","0.945",47,0.783,0.698,0.719
+"DDimer_PE_Crawford2020","Very Low","FRAGILE","0.006",44,0.983,0.795,0.676
+"Dementia_data","Moderate","ROBUST","N/A",79.3,0.988,0.792,0.862
+"Depression_Screening_Gilbody2008","Low","CONDITIONAL","0.752",58.3,0.971,0.703,0.733
+"DVT_Ultrasound_Goodacre2005","Very Low","FRAGILE","0.01",43.5,0.975,0.76,0.839
+"FENO_Asthma_Schneider2017","Low","CONDITIONAL","N/A",59.8,0.997,0.578,0.751
+"HSTroponin_MI_Body2014","Very Low","FRAGILE","0.008",43.6,0.976,0.754,0.646
+"IAQ_data","Low","CONDITIONAL","N/A",58.9,0.981,0.809,0.78
+"IQCODE_Dementia_MetaDTA","Low","CONDITIONAL","N/A",58.3,0.971,0.746,0.578
+"MRI_Prostate_Futterer2015","Very Low","FRAGILE","0",43.5,0.975,0.703,0.7
+"POCUS_Shock_Yoshida2023","Very Low","FRAGILE","0.001",35.4,0.84,0.78,0.792
+"Procalcitonin_Sepsis_Wacker2013","Low","CONDITIONAL","0.155",58.7,0.979,0.694,0.656
+"SAQ_data","High","IMMUTABLE TRUTH","N/A",99.2,0.988,0.878,0.908
+"SkinTests_data","Low","CONDITIONAL","0.402",57.8,0.964,0.417,0.833
+"Smoking_data","High","IMMUTABLE TRUTH","N/A",99.5,0.992,0.919,0.931
+"TB_SmearMicroscopy_Steingart2006","Low","CONDITIONAL","0.002",63.9,0.981,0.64,0.861
+"XpertMTB_RIF_Tuberculosis2014","Low","CONDITIONAL","0.007",63.7,0.978,0.71,0.851
