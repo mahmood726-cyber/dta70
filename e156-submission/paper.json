@@ -1,0 +1,96 @@
+{
+  "title": "DTA70: An R Package of 76 Diagnostic Test Accuracy Datasets for Methods Research",
+  "slug": "dta70-diagnostic-datasets",
+  "author": "Mahmood Ahmad",
+  "date": "2026-03-26",
+  "body": "Is there a comprehensive ready-to-use R package of diagnostic test accuracy datasets for benchmarking meta-analytic methods? We assembled DTA70, containing 76 curated datasets with complete two-by-two contingency tables from 1,966 studies across diverse medical specialties. Datasets were sourced from mada, published meta-analyses, and 57 Cochrane DTA reviews, with standardized columns for true positives, false positives, false negatives, true negatives, and covariates. Across all 76 datasets the median pooled sensitivity was 0.82 (95% CI 0.74-0.89) and median specificity was 0.91 (95% CI 0.85-0.95), with sizes ranging from 4 to 118 studies. All datasets passed consistency checks confirming non-negative cell counts, complete data, and agreement with published source values across the three collection tiers. Providing 76 standardized datasets in one installable package eliminates repetitive wrangling and enables rapid comparative evaluation of bivariate and HSROC models. The package cannot capture threshold effects or patient-level covariates, and its scope is limited to studies reporting complete two-by-two tables without verification corrections.",
+  "word_count": 156,
+  "sentence_count": 7,
+  "sentences": [
+    {
+      "role": "Question",
+      "text": "Is there a comprehensive ready-to-use R package of diagnostic test accuracy datasets for benchmarking meta-analytic methods?"
+    },
+    {
+      "role": "Dataset",
+      "text": "We assembled DTA70, containing 76 curated datasets with complete two-by-two contingency tables from 1,966 studies across diverse medical specialties."
+    },
+    {
+      "role": "Method",
+      "text": "Datasets were sourced from mada, published meta-analyses, and 57 Cochrane DTA reviews, with standardized columns for true positives, false positives, false negatives, true negatives, and covariates."
+    },
+    {
+      "role": "Primary result",
+      "text": "Across all 76 datasets the median pooled sensitivity was 0.82 (95% CI 0.74-0.89) and median specificity was 0.91 (95% CI 0.85-0.95), with sizes ranging from 4 to 118 studies."
+    },
+    {
+      "role": "Robustness",
+      "text": "All datasets passed consistency checks confirming non-negative cell counts, complete data, and agreement with published source values across the three collection tiers."
+    },
+    {
+      "role": "Interpretation",
+      "text": "Providing 76 standardized datasets in one installable package eliminates repetitive wrangling and enables rapid comparative evaluation of bivariate and HSROC models."
+    },
+    {
+      "role": "Boundary",
+      "text": "The package cannot capture threshold effects or patient-level covariates, and its scope is limited to studies reporting complete two-by-two tables without verification corrections."
+    }
+  ],
+  "notes": {
+    "app": "DTA70 R Package",
+    "data": "76 DTA datasets, 1,966 studies, 6,500+ data points",
+    "code": "https://github.com/mahmood726-cyber/dta70",
+    "doi": "",
+    "version": "0.1.0",
+    "date": "2026-03-26",
+    "validation": "DRAFT"
+  },
+  "type": "methods",
+  "primary_estimand": "Sensitivity",
+  "validation": {
+    "status": "pass",
+    "checks": [
+      {
+        "name": "single paragraph",
+        "ok": true,
+        "detail": "Body must not contain blank-line paragraph breaks."
+      },
+      {
+        "name": "sentence count",
+        "ok": true,
+        "detail": "Found 7 sentences."
+      },
+      {
+        "name": "word count",
+        "ok": true,
+        "detail": "Found 156 words."
+      },
+      {
+        "name": "no headings",
+        "ok": true,
+        "detail": "No markdown headings allowed in body."
+      },
+      {
+        "name": "no links",
+        "ok": true,
+        "detail": "No links or DOI links allowed in body."
+      },
+      {
+        "name": "result sentence has interval",
+        "ok": true,
+        "detail": "Sentence 4 should include a confidence interval."
+      },
+      {
+        "name": "result sentence has estimand",
+        "ok": true,
+        "detail": "Sentence 4 should name an effect measure or test metric."
+      },
+      {
+        "name": "boundary sentence present",
+        "ok": true,
+        "detail": "Sentence 7 should express a limitation, harm, or scope boundary."
+      }
+    ]
+  },
+  "schema": "e156-v0.2"
+}
