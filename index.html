@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DTA70: An R Package of 76 Diagnostic Test Accuracy Datasets for Methods Research — E156 ◆ Synthēsis</title>
+<meta name="description" content="E156 micro-paper: DTA70: An R Package of 76 Diagnostic Test Accuracy Datasets for Methods Research (Sensitivity, methods). 7 sentences, 156 words. Targeting Synthēsis.">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { padding: 2rem 1rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.6; color: #1a1a1a; background: #eef2ff; }
+  .wrap { max-width: 760px; margin: 0 auto; }
+  .mark { color: #4338ca; font-weight: 600; letter-spacing: 0.02em; font-size: 0.9rem; }
+  h1 { font-size: 1.55rem; line-height: 1.25; margin: 0.3rem 0 0.5rem; letter-spacing: -0.01em; }
+  .sub { color: #6b7280; font-size: 0.9rem; margin-bottom: 1.5rem; }
+  .sub code { background: #e5e7eb; padding: 1px 5px; border-radius: 3px; font-size: 0.85em; }
+  .highlight { background: linear-gradient(135deg, #4338ca22, #4338ca0a); border-left: 4px solid #4338ca; padding: 0.9rem 1.1rem; border-radius: 0 6px 6px 0; margin: 0 0 1.5rem; font-size: 1rem; color: #1f2937; }
+  .highlight strong { color: #4338ca; }
+  .body { background: white; padding: 1.5rem; border-radius: 8px; border: 1px solid #e5e7eb; margin-bottom: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+  .body p { margin: 0; }
+  .readme { background: #fafafa; padding: 1rem 1.2rem; border-radius: 6px; border: 1px dashed #d1d5db; margin-bottom: 1.5rem; font-size: 0.88rem; color: #4b5563; font-style: italic; }
+  .readme::before { content: "FROM THE README — "; font-weight: 600; font-style: normal; color: #9ca3af; font-size: 0.75rem; letter-spacing: 0.05em; }
+  .stats { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+  .chip { background: white; border: 1px solid #e5e7eb; border-radius: 20px; padding: 0.3rem 0.8rem; font-size: 0.8rem; color: #4b5563; }
+  .chip strong { color: #1a1a1a; }
+  .links { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.5rem; margin-bottom: 1rem; }
+  .links a { display: block; padding: 0.7rem 1rem; background: white; border: 1px solid #e5e7eb; border-radius: 6px; color: #3730a3; text-decoration: none; font-size: 0.88rem; text-align: center; }
+  .links a:hover { background: #f3f4f6; border-color: #4338ca88; }
+  .files { background: #f9fafb; padding: 0.8rem 1rem; border-radius: 6px; border: 1px solid #e5e7eb; margin-bottom: 1.5rem; font-size: 0.83rem; color: #6b7280; }
+  .files code { background: white; border: 1px solid #e5e7eb; padding: 1px 6px; border-radius: 3px; margin: 0 2px; display: inline-block; color: #1f2937; }
+  .meta { font-size: 0.82rem; color: #4b5563; background: white; padding: 1rem 1.2rem; border-radius: 6px; border: 1px solid #e5e7eb; }
+  .meta dt { font-weight: 600; margin-top: 0.4rem; color: #111827; }
+  .meta dt:first-child { margin-top: 0; }
+  footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #e5e7eb; color: #9ca3af; font-size: 0.8rem; text-align: center; }
+  footer a { color: #6b7280; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<p class="mark">◆ Synthēsis · Methods Note</p>
+<h1>DTA70: An R Package of 76 Diagnostic Test Accuracy Datasets for Methods Research</h1>
+<p class="sub">Project <code>DTA70</code> · <strong>methods</strong> study · primary estimand <strong>Sensitivity</strong></p>
+
+<div class="highlight"><strong>Key result:</strong> Across all 76 datasets the median pooled sensitivity was 0.82 (95% CI 0.74-0.89) and median specificity was 0.</div>
+
+<div class="stats">
+  <span class="chip">📏 <strong>156 words</strong> / 7 sentences</span>
+  
+  
+  
+</div>
+
+<div class="body">
+<p>Is there a comprehensive ready-to-use R package of diagnostic test accuracy datasets for benchmarking meta-analytic methods? We assembled DTA70, containing 76 curated datasets with complete two-by-two contingency tables from 1,966 studies across diverse medical specialties. Datasets were sourced from mada, published meta-analyses, and 57 Cochrane DTA reviews, with standardized columns for true positives, false positives, false negatives, true negatives, and covariates. Across all 76 datasets the median pooled sensitivity was 0.82 (95% CI 0.74-0.89) and median specificity was 0.91 (95% CI 0.85-0.95), with sizes ranging from 4 to 118 studies. All datasets passed consistency checks confirming non-negative cell counts, complete data, and agreement with published source values across the three collection tiers. Providing 76 standardized datasets in one installable package eliminates repetitive wrangling and enables rapid comparative evaluation of bivariate and HSROC models. The package cannot capture threshold effects or patient-level covariates, and its scope is limited to studies reporting complete two-by-two tables without verification corrections.</p>
+</div>
+
+
+
+<div class="files">Repo contents: <code>docs</code></div>
+
+<div class="links">
+  <a href="https://github.com/mahmood726-cyber/DTA70">▶ Source code</a>
+  <a href="https://github.com/mahmood726-cyber/DTA70/blob/main/E156-PROTOCOL.md">📄 E156 protocol</a>
+  <a href="https://mahmood726-cyber.github.io/e156/students.html" target="_blank">🎓 Claim this paper</a>
+  <a href="https://www.synthesis-medicine.org/index.php/journal" target="_blank">📖 Synthēsis journal</a>
+</div>
+
+<div class="meta">
+<dt>Target journal</dt>
+<dd>◆ Synthēsis (synthesis-medicine.org) — section: Methods Note</dd>
+<dt>Format contract</dt>
+<dd>E156 micro-paper: exactly 7 sentences, ≤156 words, single paragraph</dd>
+<dt>License</dt>
+<dd>Manuscript: CC-BY-4.0 · Code: MIT</dd>
+<dt>Status</dt>
+<dd>Open — claim on the student board</dd>
+</div>
+
+<footer>
+  Landing page for <code>DTA70</code> · part of the E156 portfolio ·
+  <a href="https://mahmood726-cyber.github.io/e156/students.html">claim this paper on the student board</a>
+</footer>
+
+</div>
+</body>
+</html>
