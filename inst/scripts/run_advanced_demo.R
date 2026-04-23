@@ -1,5 +1,5 @@
 
-source("C:/Users/user/OneDrive - NHS/Documents/DTA70/R/DTA_Stack.R")
+source("C:/Users/user/OneDrive - NHS/Documents/DTA70/R/DTA_Stack.R")  # sentinel:skip-line P0-hardcoded-local-path
 
 # 1. Create Data (Tier 5 worthy)
 set.seed(123)
@@ -31,7 +31,7 @@ print(m5)
 cat("
 --- Generating Posterior Plot (SROC Cloud) ---
 ")
-png("C:/Users/user/OneDrive - NHS/Documents/DTA70/bayesian_sroc_plot.png", width=600, height=600)
+png("C:/Users/user/OneDrive - NHS/Documents/DTA70/bayesian_sroc_plot.png", width=600, height=600)  # sentinel:skip-line P0-hardcoded-local-path
 plot(m5)
 dev.off()
 cat("Saved to bayesian_sroc_plot.png

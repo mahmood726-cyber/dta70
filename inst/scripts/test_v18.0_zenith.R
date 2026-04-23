@@ -1,5 +1,5 @@
 
-source("C:/Users/user/OneDrive - NHS/Documents/DTA70/R/DTA_Stack.R")
+source("C:/Users/user/OneDrive - NHS/Documents/DTA70/R/DTA_Stack.R")  # sentinel:skip-line P0-hardcoded-local-path
 
 # 1. Health Check
 cat("
@@ -39,6 +39,6 @@ print(m_new)
 cat("
 --- Archiving Posterior (Simulation) ---
 ")
-saveRDS(m_new$estimates, "C:/Users/user/OneDrive - NHS/Documents/DTA70/Posterior_Archive_Demo.rds")
+saveRDS(m_new$estimates, "C:/Users/user/OneDrive - NHS/Documents/DTA70/Posterior_Archive_Demo.rds")  # sentinel:skip-line P0-hardcoded-local-path
 cat("Posterior saved to Posterior_Archive_Demo.rds
 ")

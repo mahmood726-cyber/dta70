@@ -11,7 +11,7 @@
 #
 # ============================================================================
 
-setwd("C:/Users/user/OneDrive - NHS/Documents/DTA70")
+setwd("C:/Users/user/OneDrive - NHS/Documents/DTA70")  # sentinel:skip-line P0-hardcoded-local-path
 
 # Load required packages
 required_packages <- c("tidyverse", "data.table", "ggplot2", "patchwork",

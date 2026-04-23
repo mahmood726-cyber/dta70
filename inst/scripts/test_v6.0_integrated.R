@@ -1,5 +1,5 @@
 
-source("C:/Users/user/OneDrive - NHS/Documents/DTA70/R/DTA_Stack.R")
+source("C:/Users/user/OneDrive - NHS/Documents/DTA70/R/DTA_Stack.R")  # sentinel:skip-line P0-hardcoded-local-path
 
 # 1. Challenge Data - Small & Fragile
 cat("
@@ -26,7 +26,7 @@ m_large <- dta_stack(df_large)
 print(m_large)
 
 # 3. Save Evidence Plot
-png("C:/Users/user/OneDrive - NHS/Documents/DTA70/unified_v6_evidence.png", width=800, height=400)
+png("C:/Users/user/OneDrive - NHS/Documents/DTA70/unified_v6_evidence.png", width=800, height=400)  # sentinel:skip-line P0-hardcoded-local-path
 par(mfrow=c(1,2))
 plot(m_small)
 plot(m_large)

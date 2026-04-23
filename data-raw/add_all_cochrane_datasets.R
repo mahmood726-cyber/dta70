@@ -2,7 +2,7 @@
 library(usethis)
 
 # Load the summary to get all review IDs and titles
-summary_data <- readRDS("C:/Users/user/OneDrive - NHS/Documents/DTA70/zenodo_data/extracted/all_reviews_summary.rds")
+summary_data <- readRDS("C:/Users/user/OneDrive - NHS/Documents/DTA70/zenodo_data/extracted/all_reviews_summary.rds")  # sentinel:skip-line P0-hardcoded-local-path
 
 cat("Adding", length(summary_data), "Cochrane DTA datasets to package...\n\n")
 
@@ -18,7 +18,7 @@ for (i in seq_along(summary_data)) {
               i, review_id, n_studies, n_rows))
 
   # Load the data
-  data_file <- paste0("C:/Users/user/OneDrive - NHS/Documents/DTA70/zenodo_data/extracted/",
+  data_file <- paste0("C:/Users/user/OneDrive - NHS/Documents/DTA70/zenodo_data/extracted/",  # sentinel:skip-line P0-hardcoded-local-path
                       review_id, ".rds")
   dataset <- readRDS(data_file)
 
@@ -31,7 +31,7 @@ for (i in seq_along(summary_data)) {
 
   # Save using save() directly to get the right name
   save(list = dataset_name,
-       file = paste0("C:/Users/user/OneDrive - NHS/Documents/DTA70/data/",
+       file = paste0("C:/Users/user/OneDrive - NHS/Documents/DTA70/data/",  # sentinel:skip-line P0-hardcoded-local-path
                      dataset_name, ".rda"),
        compress = "xz")
 

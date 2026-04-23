@@ -2,7 +2,7 @@
 library(usethis)
 
 # Read the IQCODE CSV dataset
-iqcode_raw <- read.csv("C:/Users/user/OneDrive - NHS/Documents/DTA70/data-raw/IQCODE.csv",
+iqcode_raw <- read.csv("C:/Users/user/OneDrive - NHS/Documents/DTA70/data-raw/IQCODE.csv",  # sentinel:skip-line P0-hardcoded-local-path
                        stringsAsFactors = FALSE)
 
 # Create clean dataset

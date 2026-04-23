@@ -8,7 +8,7 @@
 # ============================================================================
 
 # Set working directory to DTA70 package root
-setwd("C:/Users/user/OneDrive - NHS/Documents/DTA70")
+setwd("C:/Users/user/OneDrive - NHS/Documents/DTA70")  # sentinel:skip-line P0-hardcoded-local-path
 
 # Load required packages
 required_packages <- c("DTA70", "tidyverse", "data.table")

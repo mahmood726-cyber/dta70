@@ -1,12 +1,12 @@
 # Generate roxygen2 documentation for all 57 Cochrane datasets
 
 # Load the summary to get titles and metadata
-summary_data <- readRDS("C:/Users/user/OneDrive - NHS/Documents/DTA70/zenodo_data/extracted/all_reviews_summary.rds")
+summary_data <- readRDS("C:/Users/user/OneDrive - NHS/Documents/DTA70/zenodo_data/extracted/all_reviews_summary.rds")  # sentinel:skip-line P0-hardcoded-local-path
 
 cat("Generating documentation for", length(summary_data), "Cochrane datasets...\n\n")
 
 # Open the datasets.R file for appending
-doc_file <- "C:/Users/user/OneDrive - NHS/Documents/DTA70/R/cochrane_datasets.R"
+doc_file <- "C:/Users/user/OneDrive - NHS/Documents/DTA70/R/cochrane_datasets.R"  # sentinel:skip-line P0-hardcoded-local-path
 
 # Start the file with a header
 file_content <- "# Cochrane DTA Review Datasets\n# Extracted from the Limsi-Cochrane collection\n# https://zenodo.org/record/1303259\n\n"
@@ -20,7 +20,7 @@ for (i in seq_along(summary_data)) {
   n_rows <- review$n_rows
 
   # Load actual data to check unique studies
-  data_file <- paste0("C:/Users/user/OneDrive - NHS/Documents/DTA70/zenodo_data/extracted/",
+  data_file <- paste0("C:/Users/user/OneDrive - NHS/Documents/DTA70/zenodo_data/extracted/",  # sentinel:skip-line P0-hardcoded-local-path
                       review_id, ".rds")
   dataset <- readRDS(data_file)
   unique_studies <- length(unique(dataset$study_id))

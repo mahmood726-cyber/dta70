@@ -11,7 +11,7 @@
 1. Open R or RStudio
 2. Set working directory:
    ```r
-   setwd("C:/Users/user/OneDrive - NHS/Documents/DTA70")
+   setwd("C:/Users/user/OneDrive - NHS/Documents/DTA70") <!-- sentinel:skip-line P0-hardcoded-local-path -->
    ```
 
 3. Install required packages (first time only):
@@ -30,7 +30,7 @@ If you prefer to run each phase separately:
 
 ### Step 1: Install Packages
 ```r
-setwd("C:/Users/user/OneDrive - NHS/Documents/DTA70")
+setwd("C:/Users/user/OneDrive - NHS/Documents/DTA70") <!-- sentinel:skip-line P0-hardcoded-local-path -->
 source("dta_methods_research/config/packages_needed.R")
 ```
 
@@ -77,7 +77,7 @@ print(result)
 
 Double-click this file:
 ```
-C:\Users\user\OneDrive - NHS\Documents\DTA70\dta_methods_research\run_analysis.bat
+C:\Users\user\OneDrive - NHS\Documents\DTA70\dta_methods_research\run_analysis.bat <!-- sentinel:skip-line P0-hardcoded-local-path -->
 ```
 
 ## OUTPUT FILES

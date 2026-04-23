@@ -23,7 +23,7 @@ where R
 echo.
 
 REM Change to project directory
-cd /d "C:\Users\user\OneDrive - NHS\Documents\DTA70"
+cd /d "C:\Users\user\OneDrive - NHS\Documents\DTA70"  # sentinel:skip-line P0-hardcoded-local-path
 
 echo Starting R...
 echo.

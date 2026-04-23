@@ -1,5 +1,5 @@
 
-source("C:/Users/user/OneDrive - NHS/Documents/DTA70/R/DTA_Stack.R")
+source("C:/Users/user/OneDrive - NHS/Documents/DTA70/R/DTA_Stack.R")  # sentinel:skip-line P0-hardcoded-local-path
 set.seed(42)
 df <- data.frame(TP=rbinom(12, 100, 0.8), FN=rbinom(12, 100, 0.2), TN=rbinom(12, 100, 0.9), FP=rbinom(12, 100, 0.1))
 

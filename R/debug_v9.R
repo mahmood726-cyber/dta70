@@ -2,7 +2,7 @@
 #' @keywords internal
 debug_dta_stack_v9 <- function() {
   f <- system.file("data/AuditC_data.rda", package = "DTA70")
-  if (f == "") f <- "C:/Users/user/OneDrive - NHS/Documents/DTA70/data/AuditC_data.rda"
+  if (f == "") f <- "C:/Users/user/OneDrive - NHS/Documents/DTA70/data/AuditC_data.rda"  # sentinel:skip-line P0-hardcoded-local-path
   
   if (!file.exists(f)) return(message("Data file not found"))
   

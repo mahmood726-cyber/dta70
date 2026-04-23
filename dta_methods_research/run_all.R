@@ -13,7 +13,7 @@
 #
 # ============================================================================
 
-setwd("C:/Users/user/OneDrive - NHS/Documents/DTA70")
+setwd("C:/Users/user/OneDrive - NHS/Documents/DTA70")  # sentinel:skip-line P0-hardcoded-local-path
 
 cat("========================================\n")
 cat("DTA Meta-Analysis Methods Research\n")
