@@ -3,7 +3,9 @@
 # Deterministic dta_stack() fit on a fixed 3-study TP/FN/FP/TN dataset
 # (frequentist method only — Bayesian uses MCMC which can drift).
 #
-# Run: Rscript probe.R
+# Run: Rscript --vanilla probe.R
+# (--vanilla skips .Rprofile / Renviron so renv::activate output does not
+#  pollute stdout that the Overmind numerical witness parses as JSON.)
 
 suppressPackageStartupMessages({
   if (!"DTA70" %in% loadedNamespaces()) {
